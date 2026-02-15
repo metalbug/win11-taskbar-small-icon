@@ -1,3 +1,6 @@
+
+![https://example.com/path/to/image.png](https://github.com/metalbug/win11-taskbar-small-icon/blob/main/2026-2-15%209-39-14.png)
+
 这个小软件只有一个功能，就是把 win11 任务栏变回小图标
 
 首先把软件解压到任何你喜欢的目录，比如 D:\Tools\Taskbar\ 或者 C:\Program Files\TaskbarTweaker\ 然后运行，如果没效果，试试以管理员权限运行。
