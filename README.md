@@ -1,5 +1,5 @@
 
-![https://example.com/path/to/image.png](https://github.com/metalbug/win11-taskbar-small-icon/blob/main/2026-2-15%209-39-14.png)
+![](https://github.com/metalbug/win11-taskbar-small-icon/blob/main/2026-2-15%209-39-14.png)
 
 这个小软件只有一个功能，就是把 win11 任务栏变回小图标
 
